@@ -36,11 +36,17 @@ H: 480 pixel
 
 
 ## 开始
+
 (1) 连接奥比中光rgbd相机到nx
+
 (2) 启动roscore
+
 (3) 启动服务
+
 ./start_rgbd_cam_server.sh
+
 (4) 启动节点
+
 ./start_rgbd_cam_node.sh
 
 
